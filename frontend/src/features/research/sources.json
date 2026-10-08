@@ -1,0 +1,116 @@
+[
+  {
+    "id": "s1",
+    "title": "Retrieval-augmented generation for knowledge-intensive tasks",
+    "authors": "Maya Chen, Oliver Reed et al.",
+    "year": 2025,
+    "type": "Paper",
+    "publisher": "Journal of Machine Learning Research",
+    "topic": "Artificial intelligence",
+    "tags": ["Retrieval", "Language models"],
+    "abstract": "A comparative exploration of retrieval-augmented language models and their ability to ground generated answers in external evidence. This demo paper examines how retrieval quality and source selection shape answer reliability.",
+    "findings": [
+      "Retrieval quality matters more than the size of the document collection.",
+      "Source-level citations make generated answers easier to inspect.",
+      "Combining semantic and keyword retrieval improves coverage."
+    ],
+    "limitations": "Illustrative findings only. Results are simulated and do not represent a published benchmark.",
+    "minutes": 8,
+    "color": "mint"
+  },
+  {
+    "id": "s2",
+    "title": "Beyond the abstract: AI-assisted scientific literature discovery",
+    "authors": "Sofia Martinez, James Park",
+    "year": 2025,
+    "type": "Review",
+    "publisher": "Research Methods Quarterly",
+    "topic": "Research methods",
+    "tags": ["Literature review", "Discovery"],
+    "abstract": "A review of approaches that use artificial intelligence to organize scientific literature, surface overlooked sources, and support evidence synthesis. The sample review emphasizes transparent workflows and human judgment.",
+    "findings": [
+      "Topic-based exploration can uncover sources missed by keyword searches.",
+      "Human review remains necessary for assessing methodological quality.",
+      "Explicit inclusion criteria make literature discovery more reproducible."
+    ],
+    "limitations": "This is sample content, not a systematic review. No actual databases were searched.",
+    "minutes": 6,
+    "color": "sky"
+  },
+  {
+    "id": "s3",
+    "title": "Mapping the connections: knowledge graphs in modern research",
+    "authors": "Daniel Okafor, Emma Wilson et al.",
+    "year": 2024,
+    "type": "Paper",
+    "publisher": "Knowledge & Information Systems",
+    "topic": "Knowledge discovery",
+    "tags": ["Knowledge graphs", "Connections"],
+    "abstract": "An illustrative study of knowledge graphs as a way to connect concepts, authors, and findings across documents. It explores how structured relationships complement text-based search.",
+    "findings": [
+      "Relationship labels help researchers understand why sources are connected.",
+      "Graph exploration complements rather than replaces full-text reading.",
+      "Provenance must travel with every extracted relationship."
+    ],
+    "limitations": "The graph and evaluated relationships are illustrative; no real extraction was performed.",
+    "minutes": 10,
+    "color": "peach"
+  },
+  {
+    "id": "s4",
+    "title": "Trust, transparency, and citations in AI-generated answers",
+    "authors": "Aisha Patel, Lucas Bennett",
+    "year": 2024,
+    "type": "Report",
+    "publisher": "Institute for Responsible AI",
+    "topic": "Artificial intelligence",
+    "tags": ["Explainability", "Citations"],
+    "abstract": "A sample report on presenting AI-generated answers with accessible citations, clearly communicated uncertainty, and inspectable evidence. It argues for interfaces that keep researchers in control.",
+    "findings": [
+      "A citation is useful only when it supports the associated claim.",
+      "Uncertainty should be visible alongside an answer.",
+      "Access to source context enables more informed decisions."
+    ],
+    "limitations": "Recommendations are demo examples rather than validated policy guidance.",
+    "minutes": 5,
+    "color": "mint"
+  },
+  {
+    "id": "s5",
+    "title": "Neural networks and the future of scientific discovery",
+    "authors": "Ethan Brooks, Priya Nair",
+    "year": 2023,
+    "type": "Paper",
+    "publisher": "Computational Science Review",
+    "topic": "Artificial intelligence",
+    "tags": ["Neural networks", "Science"],
+    "abstract": "A sample exploration of neural networks for scientific hypothesis generation and discovery. It considers the relationship between predictive performance, interpretability, and domain expertise.",
+    "findings": [
+      "Domain expertise is essential for interpreting predicted patterns.",
+      "Model-generated hypotheses require independent experimental validation.",
+      "Interdisciplinary datasets can support unexpected connections."
+    ],
+    "limitations": "No experiments were conducted. All findings are fictional demonstration material.",
+    "minutes": 9,
+    "color": "sky"
+  },
+  {
+    "id": "s6",
+    "title": "A practical framework for evidence synthesis",
+    "authors": "Nora Kim, Gabriel Santos",
+    "year": 2022,
+    "type": "Review",
+    "publisher": "Open Research Methods",
+    "topic": "Research methods",
+    "tags": ["Evidence synthesis", "Literature review"],
+    "abstract": "A demonstration framework for organizing research questions, screening sources, and comparing evidence. It illustrates how structured notes support reliable summaries.",
+    "findings": [
+      "A focused question simplifies source selection.",
+      "Recording limitations prevents overconfident synthesis.",
+      "Comparing methods is as important as comparing conclusions."
+    ],
+    "limitations": "This is an illustrative framework with no real-world evaluation.",
+    "minutes": 7,
+    "color": "peach"
+  }
+]
